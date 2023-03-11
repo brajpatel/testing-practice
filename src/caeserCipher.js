@@ -13,8 +13,6 @@ function caeserCipher(str) {
         }
     }
 
-    console.log(resultStr.join(""))
-
     return resultStr.join("");
 }
 

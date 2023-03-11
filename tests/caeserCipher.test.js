@@ -5,11 +5,11 @@ test('caeser cipher test 1', () => {
 })
 
 test('caeser cipher test 2', () => {
-    expect(caeserCipher('ABBQYRF')).toBe('NOODLES');
+    expect(caeserCipher('CENPGVPR')).toBe('PRACTICE');
 })
 
 test('caeser cipher test 3', () => {
-    expect(caeserCipher('ABBQYRF')).toBe('NOODLES');
+    expect(caeserCipher('OVAT PUVYYVAT')).toBe('BING CHILLING');
 })
 
 test('caeser cipher test 4', () => {
